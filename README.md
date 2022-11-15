@@ -1,2 +1,2 @@
-# AllSubstring_of_String
+# All Substrings
  
